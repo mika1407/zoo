@@ -1,0 +1,14 @@
+C:\Users\konea\Documents\C#\testi2\bin\Debug\net7.0\testi2.exe
+C:\Users\konea\Documents\C#\testi2\bin\Debug\net7.0\testi2.deps.json
+C:\Users\konea\Documents\C#\testi2\bin\Debug\net7.0\testi2.runtimeconfig.json
+C:\Users\konea\Documents\C#\testi2\bin\Debug\net7.0\testi2.dll
+C:\Users\konea\Documents\C#\testi2\bin\Debug\net7.0\testi2.pdb
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.AssemblyInfoInputs.cache
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.AssemblyInfo.cs
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.csproj.CoreCompileInputs.cache
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.dll
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\refint\testi2.dll
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.pdb
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\testi2.genruntimeconfig.cache
+C:\Users\konea\Documents\C#\testi2\obj\Debug\net7.0\ref\testi2.dll
